@@ -1,1 +1,2 @@
+it was a friday in the intern
 rm -rf /*
