@@ -1,1 +1,7 @@
-rm -rf /*
+it was a peacful friday in the intern
+database 2
+there is a error
+lets reapir it using database 1
+database 1
+one of the engineer 
+rm rf /*
